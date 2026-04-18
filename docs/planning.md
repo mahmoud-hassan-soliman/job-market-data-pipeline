@@ -17,10 +17,14 @@ The analysis will aim to answer the following questions:
 - Are there noticeable trends in job postings over time?
 
 ## Dashboard Metrics
-- Top skills frequency
-- Top job titles
-- Jobs per location
-## Expected Output
+
+The dashboard will present the following metrics:
+
+- Frequency of each technical skill
+- Count of job postings per job title
+- Number of jobs per location
+- Percentage of remote vs on-site jobs
+- Number of job postings over time
 
 The system will produce the following outputs:
 1. A structured dataset of job postings collected from an online source
