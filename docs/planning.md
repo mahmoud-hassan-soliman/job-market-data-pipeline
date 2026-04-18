@@ -7,9 +7,14 @@ Job Market Data Pipeline
 Build a data pipeline to analyze job market trends.
 
 ## Key Insights
-- Most demanded skills
-- Most common job titles
-- Job distribution by location
+
+The analysis will aim to answer the following questions:
+
+- What are the most in-demand technical skills?
+- What are the most common job titles?
+- How are jobs distributed across different locations?
+- What is the ratio of remote to on-site jobs?
+- Are there noticeable trends in job postings over time?
 
 ## Dashboard Metrics
 - Top skills frequency
